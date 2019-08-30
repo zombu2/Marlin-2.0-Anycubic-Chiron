@@ -12,9 +12,9 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug",
-            "executable": "c:/Users/rossi/Documents/GitHub/Marlin-2.0-Anycubic-Chiron/.pio/build/BIGTREE_SKR_PRO/firmware.elf",
-            "toolchainBinDir": "C:/Users/rossi/.platformio/packages/toolchain-gccarmnoneeabi/bin",
-            "svdPath": "C:/Users/rossi/.platformio/platforms/ststm32/misc/svd/STM32F40x.svd",
+            "executable": "/home/rossi/Documents/GitHub/Marlin-2.0-Anycubic-Chiron/.pio/build/BIGTREE_SKR_PRO/firmware.elf",
+            "toolchainBinDir": "/home/rossi/.platformio/packages/toolchain-gccarmnoneeabi/bin",
+            "svdPath": "/home/rossi/.platformio/platforms/ststm32/misc/svd/STM32F40x.svd",
             "preLaunchTask": {
                 "type": "PlatformIO",
                 "task": "Pre-Debug"
@@ -25,9 +25,9 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug (skip Pre-Debug)",
-            "executable": "c:/Users/rossi/Documents/GitHub/Marlin-2.0-Anycubic-Chiron/.pio/build/BIGTREE_SKR_PRO/firmware.elf",
-            "toolchainBinDir": "C:/Users/rossi/.platformio/packages/toolchain-gccarmnoneeabi/bin",
-            "svdPath": "C:/Users/rossi/.platformio/platforms/ststm32/misc/svd/STM32F40x.svd",
+            "executable": "/home/rossi/Documents/GitHub/Marlin-2.0-Anycubic-Chiron/.pio/build/BIGTREE_SKR_PRO/firmware.elf",
+            "toolchainBinDir": "/home/rossi/.platformio/packages/toolchain-gccarmnoneeabi/bin",
+            "svdPath": "/home/rossi/.platformio/platforms/ststm32/misc/svd/STM32F40x.svd",
             "internalConsoleOptions": "openOnSessionStart"
         }
     ]
