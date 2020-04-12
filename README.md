@@ -1,5 +1,9 @@
 Precompiled binary for SKR Pro is in the .pio folder
 
+BLtouch mount for chiron : https://www.thingiverse.com/thing:3844414
+
+Board Adapter SKR Pro    : https://www.thingiverse.com/thing:3817838
+
 
 # Marlin 3D Printer Firmware
 
