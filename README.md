@@ -1,4 +1,7 @@
-﻿# Marlin 3D Printer Firmware
+Precompiled binary for SKR Pro is in the .pio folder
+
+
+# Marlin 3D Printer Firmware
 
 [![Build Status](https://travis-ci.org/MarlinFirmware/Marlin.svg?branch=bugfix-2.0.x)](https://travis-ci.org/MarlinFirmware/Marlin)
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
